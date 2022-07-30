@@ -1,9 +1,3 @@
-/* BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I HAVE STRICTLY ADHERED 
- ** TO THE TENSURES OF THE OHIO STATE UNIVERSITY'S ACADEMIC INTEGRITY POLICY
- ** WITH RESPECT TO THIS ASSIGNMENT.
- ** 
- ** NAME: XINGYUAN(PETER) LUO
-*/
 #include <stdio.h>						/*This tells the preprocessor to copy IO library prototypes.*/
 
 /* This function reads the input as an integer. */
