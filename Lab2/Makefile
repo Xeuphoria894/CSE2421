@@ -1,10 +1,3 @@
-# BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I HAVE STRICTLY ADHERED
-# TO THE TENURES OF THE OHIO STATE UNIVERSITY'S ACADEMIC INTEGRITY POLICY
-# WITH RESPECT TO THIS ASSIGNMENT.
-#
-# THIS IS THE MAKEFILE FILE FOR LAB2
-#
-# Student Name: Xingyuan(Peter) Luo
 # comments in a Makefile start with sharp 
 
 gcc_opt = -ansi -pedantic -Wimplicit-function-declaration -Wreturn-type -g -c
