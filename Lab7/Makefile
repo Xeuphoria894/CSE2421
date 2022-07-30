@@ -1,7 +1,3 @@
-#BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I STRICTLY ADHERED TO THE TENURES OF
-#THE OHIO STATE UNIVERSITY'S ACADEMIC INTEGRITY POLICY.
-#Name: Peter Luo
-#This Makefile is written with the help of Ryan Castelli, one of the TA.
 CC = gcc
 SFLAGS = -lc -m64 -g
 OBJ = lab7main.o readlines.o printlines.o
