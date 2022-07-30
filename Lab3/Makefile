@@ -1,9 +1,3 @@
-#BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I HAVE STRICTLY ADHERED TO
-#THE TENURES OF THE OHIO STATE UNIVERSITY'S ACADEMIC INTEGRITY POLICY WITH
-#RESPECT TO THIS ASSIGNMENT.
-
-#Name: Peter Luo
-
 # This is the makefile for lab3.
 #
 gcc_opt = -ansi -pedantic -Wimplicit-function-declaration -Wreturn-type -g -c
