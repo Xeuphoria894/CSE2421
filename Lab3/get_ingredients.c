@@ -1,10 +1,3 @@
-/* BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I HAVE STRICTLY ADHERED TO
- * THE TENSURES OF THE OHIO STATE UNIVERSITY'S ACADEMIC INTEGRITY POLICY WITH
- * RESPECT TO THIS ASSIGNMENT.
- *
- * Name: Peter Luo
- */
-
 /*This function creates a pointer array for the ingredients*/
 #include <stdio.h>
 #include <stdlib.h>
