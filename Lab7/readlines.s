@@ -1,15 +1,9 @@
-#BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I STRICTLY ADHERED TO THE TENURES OF
-#THE OHIO STATE UNIVERSITY'S ACADEMIC INTEGRITY POLICY.
-#Name: Peter Luo
 .file "readlines.s"
 .section .rodata
 type_d: .string "%d %d"
 .globl readlines
 	.type readlines, @function
 .text
-#To whom it may concern, the stack workaround in the loop below was my doing
-#because of a protected memory error that neither Peter nor I could figure out.
-#~Ryan Castelli
 
 readlines:
 	pushq %rbp
